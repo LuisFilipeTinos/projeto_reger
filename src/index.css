@@ -1,14 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
 
+html {  
+  scroll-behavior: smooth;  
+}
+
 *{
-  font-family: "Roboto", sans-serif;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
 body, html {
-  background-color: black;
+  background-image: linear-gradient(rgb(26, 26, 26), #002412, rgb(26, 26, 26));
   color: white;
 }
 
@@ -27,4 +30,19 @@ a, a:hover, a:visited {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
+}
+
+.hr-style {
+  border-color: rgb(65, 65, 65);
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
+}
+
+.mgg-top-60 {
+  margin-top: 60px;
+}
+
+.pdd-right-80 { 
+  padding-right: 80px;
 }

@@ -5,11 +5,10 @@ function Header() {
         <header>
             <div id="header-container">
                 <h1 className="header-item">PROJETO REGER</h1>
-                <a href='' className="header-item">1</a>
-                <a href='' className="header-item">2</a>
-                <a href='' className="header-item">3</a>
-                <a href='' className="header-item">4</a>
-                <a href='' className="header-item">5</a>  
+                <a href='#first' className="header-item">O PROJETO</a>
+                <a href='#second' className="header-item">O QUE FAZEMOS</a>
+                <a href='#secondAlt' className="header-item">ONDE ESTAMOS</a>
+                <a href='#third' className="header-item">DICAS</a>
             </div>
         </header>
     )
