@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import Header from './assets/components/header'
+import Globe from './assets/Globe'
 import FirstSection from './assets/FirstSection'
 import SecondSection from './assets/SecondSection'
 import SecondSectionAlt from './assets/SecondSectionAlt'
@@ -22,6 +23,9 @@ function App() {
     </head>
       <Header/>
       <main>
+        <section>
+          <Globe/>
+        </section>
         <section id="first">
           <FirstSection/>
         </section>
