@@ -34,9 +34,9 @@
 }
 
 .image {
-    border-radius: 35px;
+    border-radius: 20px;
     width: 350.500px;
-    height: 183.609px;
+    height: 200.609px;
     margin-right: 5px;
     margin-bottom: 20px;
 }
@@ -45,4 +45,5 @@
     border-width: 5px;
     border-style: solid;
     border-color: green;
+    border-radius: 10px;
 }

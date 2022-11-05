@@ -27,6 +27,7 @@ function App() {
           <Globe/>
         </section>
         <section id="first">
+        <hr className="hr-style mgg-top-60"></hr>
           <FirstSection/>
         </section>
         <hr className="hr-style mgg-top-60"></hr>

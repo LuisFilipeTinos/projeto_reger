@@ -3,11 +3,10 @@ import '../ThirdSection/style.css'
 function ThirdSectionTip6(){
     return (
         <div className='text-align-container pdd-50'>
-            <div className='icon-bg'>
-                <i className="fa-solid fa-laptop"></i>
-            </div>
-            <h2 className='h2-title-less-pdd'>Descarte de eletrônicos</h2>
-            <p className='text-muted padding-b-50'>Os aparelhos eletrônicos devem ser descartados corretamente, como, por exemplo, em Ecopontos próprios para este tipo de resíduo</p>
+        <img className='image_icon' src='src\images\Icons\saude.png' alt='imagem_reger'></img>
+            <h2 className='h2-title-less-pdd'>SAÚDE</h2>
+            <p className='text-muted padding-b-50'>Armazenar em sacos plásticos brancos e os perfurocortantes em caixas do tipo Descarpack,
+             encaminhar para um dos pontos de coleta especial: biotério ou próximo à clínica de odontologia</p>
         </div>
     )
 }

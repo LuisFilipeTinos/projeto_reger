@@ -3,11 +3,9 @@ import '../ThirdSection/style.css'
 function ThirdSectionTip5(){
     return (
         <div className='text-align-container pdd-50'>
-            <div className='icon-bg'>
-                <i className="fa-solid fa-carrot"></i>
-            </div>
-            <h2 className='h2-title-less-pdd'>Compostagem</h2>
-            <p className='text-muted padding-b-50'>As cascas dos alimentos não precisam ir direto para o lixo. Elas podem ser utilizadas no processo de compostagem para melhorar os solos</p>
+        <img className='image_icon' src='src\images\Icons\organico.png' alt='imagem_reger'></img>
+            <h2 className='h2-title-less-pdd'>ORGÂNICOS</h2>
+            <p className='text-muted padding-b-50'>Armazenar em saco plástico marrom.</p>
         </div>
     )
 }
