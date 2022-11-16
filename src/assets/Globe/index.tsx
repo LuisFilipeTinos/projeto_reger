@@ -2,8 +2,12 @@ import './style.css'
 
 function Globe() {
     return (
-        <div className='text-align-container'>
-            <img src='src\images\globe_png.png' alt='imagem_reger'></img>
+        <div>
+            <img className='logo' src='src\images\reger_logo.png' alt='imagem_reger'></img>
+
+            <div className='text-align-container'>
+                <img className='firstImage' src='src\images\caraLoko1.png' alt='imagem_reger'></img>
+            </div>
         </div>
     )
 }

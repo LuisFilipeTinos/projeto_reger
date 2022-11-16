@@ -3,6 +3,7 @@ import '../SecondSectionAlt/style.css'
 function SecondSectionAlt() {
     return (
         <div className='text-align-container flex-element'>
+            <img className='fundo4' src='src\images\fundoVerde21.png' alt='imagem_reger'></img>
             <div className='text-content-size'>
                 <h2 className='h2-sub-title'>ONDE ESTAMOS</h2>
                 <p className='text-muted padding-b-50'>O projeto teve inicio na universidade UNISAGRADO mas atualmente se extendeu para diversos locais:
@@ -18,7 +19,7 @@ function SecondSectionAlt() {
                 <br></br>
                 -Araçatuba</p>
             </div>
-            <img className='image_ondeEstamos padding-left-50' src='src\images\unisagrado-bauru-sp.webp' alt='imagem_reger'></img>
+            <img className='image_ondeEstamos padding-left-50' src='src\images\ondeEstamos.png' alt='imagem_reger'></img>
         </div>
     )
 }

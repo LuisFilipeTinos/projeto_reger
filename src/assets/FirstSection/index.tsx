@@ -18,8 +18,11 @@ function FirstSection() {
     )*/
     return (
         <div className='text-align-container flex-element'>
+            <img className='fundo' src='src\images\fundoVerde21.png' alt='imagem_reger'></img>
             <div className='text-content-size'>
-                <h2 className='h2-sub-title padding-b-50'>O PROJETO</h2>
+
+                <h2 className='h2-sub-title padding-b-50' id='title'>O PROJETO</h2>
+
                 <div className="green-border">
                     <p className='text-muted padding-b-50 padding-t-50'>O alvo deste projeto é 
                     reduzir tomando medidas no sentido

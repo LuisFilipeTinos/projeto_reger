@@ -1,6 +1,6 @@
 .h2-main-title {
     font-size: 50px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bold;
     color: black;
     text-align: center;
@@ -9,17 +9,18 @@
 
 .text-muted {
     font-size: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     /*color: rgb(173, 172, 172);*/
     color: black;
     text-align: center;
     padding: 10px;
     
+    
 }
 
-.text-muted-first-padding {
+/* .text-muted-first-padding {
     padding: 10px 100px;
-}
+} */
 
 .text-align-container {
     text-align: center;
@@ -34,16 +35,30 @@
 }
 
 .image {
-    border-radius: 20px;
+    border-radius: 5px;
     width: 350.500px;
     height: 200.609px;
-    margin-right: 5px;
+    /* margin-right: 5px; */
     margin-bottom: 20px;
 }
 
 .green-border {
-    border-width: 5px;
+    border-width: 3px;
     border-style: solid;
     border-color: green;
     border-radius: 10px;
+}
+
+.fundo{
+    position: absolute;
+
+    width: 400px;
+    height: 110px;
+    margin-left: 1.5%;
+    padding-top: 10px;
+}
+
+.text-content-size{
+    width: 570px;
+    z-index: 1;
 }

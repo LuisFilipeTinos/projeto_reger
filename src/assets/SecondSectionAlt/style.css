@@ -1,6 +1,6 @@
 .h2-sub-title {
     font-size: 40px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bold;
     color: black;
     text-align: center;
@@ -14,10 +14,19 @@
 
 .text-content-size {
     width: 570px;
+    z-index: 1;
 }
 
 .image_ondeEstamos{
-    width: 600px;
-    border-radius: 30px;
+    width: 500px;
     margin-left: 10%;
+}
+
+.fundo4{
+    position: absolute;
+
+    width: 420px;
+    height: 110px;
+    margin-left: 80px;
+    padding-top: 10px;
 }
