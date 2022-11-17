@@ -52,10 +52,11 @@
 .fundo{
     position: absolute;
 
-    width: 400px;
+    width: 22vw;
     height: 110px;
     margin-left: 1.5%;
     padding-top: 10px;
+    min-width: 20vw;
 }
 
 .text-content-size{

@@ -38,6 +38,8 @@ html {
     font-weight: bold;
     color: black;
     text-align: center;
+    position: relative;
+    padding-top: 23px;
 }
 
 .icon-bg {

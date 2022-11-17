@@ -26,8 +26,9 @@
 .fundo2{
     position: absolute;
 
-    width: 420px;
+    width: 26vw;
     height: 110px;
     margin-left: 80px;
     padding-top: 10px;
+    min-width: 24vw;
 }
