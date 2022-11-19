@@ -54,7 +54,7 @@
 
     width: 22vw;
     height: 110px;
-    margin-left: 1.5%;
+    margin-left: 8vw;
     padding-top: 10px;
     min-width: 20vw;
 }
@@ -63,3 +63,17 @@
     width: 570px;
     z-index: 1;
 }
+
+.bootstrap-iso{
+    width: 600px;
+    height: 400px;
+    margin-left: 10vw;
+
+}
+
+.bootstrap-div{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+}
+

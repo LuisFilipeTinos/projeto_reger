@@ -59,6 +59,12 @@ html {
     margin-bottom: 120px;
 }
 
+.fundo6{
+    position: absolute;
+    margin-top: 15vw;
+    width: 100%;
+}
+
 h2{
     z-index: 1;
 }
