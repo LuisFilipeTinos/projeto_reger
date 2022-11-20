@@ -19,9 +19,12 @@ html {
     content: "\f31c";
 }
 
+#title{
+    color: rgb(255, 255, 255); 
+}
 .h2-title-less-pdd {
     font-size: x-large;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bold;
     color: black;
     text-align: center;
@@ -34,9 +37,9 @@ html {
 
 .h2-sub-title-tips {
     font-size: 50px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-weight: bold;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     position: relative;
     padding-top: 23px;

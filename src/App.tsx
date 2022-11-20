@@ -14,6 +14,7 @@ import ThirdSectionTip5 from './assets/ThirdSectionTip5'
 import ThirdSectionTip6 from './assets/ThirdSectionTip6'
 import Footer from './assets/Footer'
 import './index.css'
+import FourthSection from './assets/FourthSection'
 
 function App() {
   return (
@@ -27,7 +28,7 @@ function App() {
           <Globe/>
         </section>
         <section id="first">
-        <hr className="hr-style mgg-top-60"></hr>
+        {/* <hr className="hr-style mgg-top-60"></hr> */}
           <FirstSection/>
         </section>
         <hr className="hr-style mgg-top-60"></hr>
@@ -38,7 +39,7 @@ function App() {
         <section id="secondAlt">
           <SecondSectionAlt/>
         </section>
-        <hr className="hr-style mgg-top-60"></hr>
+        {/* <hr className="hr-style mgg-top-60"></hr> */}
         <section id="third">
           <ThirdSection/>
         </section>     

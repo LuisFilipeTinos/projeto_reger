@@ -2,9 +2,13 @@
     font-size: 40px;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 30px 10px 60px 10px;
+}
+
+#title{
+    color: rgb(255, 255, 255);
 }
 
 .flex-element {
@@ -19,8 +23,8 @@
 
 .image_1{
     height: 500px;
-    width: 300px;
-    margin-left: 30%;
+    width: 350px;
+    margin-left: 20%;
 }
 
 .fundo2{

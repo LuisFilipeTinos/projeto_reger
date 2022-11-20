@@ -5,7 +5,7 @@ function SecondSection() {
         <div className='text-align-container flex-element'>
             <img className='fundo2' src='src\images\fundoVerde21.png' alt='imagem_reger'></img>
                 <div className='text-content-size'>
-                    <h2 className='h2-sub-title pdd-right-76'>O QUE FAZEMOS</h2>
+                    <h2 className='h2-sub-title pdd-right-76' id='title'>O QUE FAZEMOS</h2>
                     <div className="green-border padding-b-50 padding-t-50">
                         <p className='text-muted padding-b-50 pdd-right-76'>O Projeto Reger tem a missão de reduzir os 
                         resíduos e, para isso, incentiva os alunos e funcionários da Unisagrado a tomarem 

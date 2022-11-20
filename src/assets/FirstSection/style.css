@@ -2,7 +2,7 @@
     font-size: 50px;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 120px 10px 10px 10px;
 }
@@ -68,7 +68,11 @@
     width: 600px;
     height: 400px;
     margin-left: 10vw;
+    border-radius: 10px;
+}
 
+.Carousel{
+    border-radius: 10px;  
 }
 
 .bootstrap-div{

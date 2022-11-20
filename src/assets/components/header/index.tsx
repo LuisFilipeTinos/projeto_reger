@@ -8,7 +8,7 @@ function Header() {
                 <a href='#first' className="header-item">O PROJETO</a>
                 <a href='#second' className="header-item">O QUE FAZEMOS</a>
                 <a href='#secondAlt' className="header-item">ONDE ESTAMOS</a>
-                <a href='#third' className="header-item">QUEM SOMOS</a>
+                <a href='src\assets\FourthSection\index.tsx' className="header-item">QUEM SOMOS</a>
                 <a href='#third' className="header-item">DICAS</a>
             </div>
         </header>
