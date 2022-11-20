@@ -15,6 +15,7 @@ import ThirdSectionTip6 from './assets/ThirdSectionTip6'
 import Footer from './assets/Footer'
 import './index.css'
 import FourthSection from './assets/FourthSection'
+import { Route, Routes } from 'react-router-dom'
 
 function App() {
   return (
@@ -39,7 +40,7 @@ function App() {
         <section id="secondAlt">
           <SecondSectionAlt/>
         </section>
-        {/* <hr className="hr-style mgg-top-60"></hr> */}
+        <hr className="hr-style mgg-top-60"></hr>
         <section id="third">
           <ThirdSection/>
         </section>     
@@ -65,6 +66,7 @@ function App() {
         </div>
       </main>   
       <Footer/>
+
     </>
   )
 }

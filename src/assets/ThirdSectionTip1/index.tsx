@@ -7,7 +7,7 @@ function ThirdSectionTip1(){
             <h2 className='h2-title-less-pdd'>RECICLÁVEIS</h2>
             <p className='text-muted padding-b-50'>Acondicionar em sacos plásticos azuis (os mesmos devem estar limpos e secos, sem resíduos de alimentos).
             <br></br>
-            Obs: Materiais cortantes (vidros quebrados) ou que representem risco ao coletor, devem ser acondicionados de segura.</p>
+            Obs: Materiais cortantes (vidros quebrados) ou que representem risco ao coletor, devem ser acondicionados forma de segura.</p>
         </div>
     )
 }
