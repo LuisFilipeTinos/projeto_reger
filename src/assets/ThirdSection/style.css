@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+
+html {  
+    font-family: Helvetica, sans-serif;
+}
+
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.fa-solid {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.fa-file-pen:before {
+    content: "\f31c";
+}
+
+#title{
+    color: rgb(255, 255, 255); 
+}
+.h2-title-less-pdd {
+    font-size: x-large;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 40px 10px 10px 10px;
+}
+
+.pdd-50 {
+    padding: 50px 100px;
+}
+
+.h2-sub-title-tips {
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    padding-top: 23px;
+}
+
+.icon-bg {
+    background-color: #009c60;
+    border-radius: 30px;
+    height: 60px;
+    display: inline-block;
+    width: 60px;
+    padding-top: 15px;
+}
+
+.fundo5{
+    position: absolute;
+    width: 100%;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-bottom: 120px;
+}
+
+.fundo6{
+    position: absolute;
+    margin-top: 15vw;
+    width: 100%;
+}
+
+h2{
+    z-index: 1;
+}

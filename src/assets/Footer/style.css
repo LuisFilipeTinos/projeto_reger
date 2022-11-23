@@ -1,0 +1,18 @@
+.footer-text-style {
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    text-align: left;
+    color: rgb(99, 99, 99);
+}
+
+.footer-elements {
+    display: inline-block;
+}
+
+.icon-media {
+    float: right;
+    margin-right: 100px;
+    color: blue;
+}

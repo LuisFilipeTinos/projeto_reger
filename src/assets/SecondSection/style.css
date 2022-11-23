@@ -1,0 +1,38 @@
+.h2-sub-title {
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px 10px 60px 10px;
+}
+
+#title{
+    color: rgb(255, 255, 255);
+}
+
+.flex-element {
+    display: flex;
+    padding: 50px 100px;
+}
+
+.text-content-size {
+    width: 570px;
+    z-index: 1;
+}
+
+.image_1{
+    height: 500px;
+    width: 350px;
+    margin-left: 20%;
+}
+
+.fundo2{
+    position: absolute;
+
+    width: 24vw;
+    height: 110px;
+    margin-left: 75px;
+    padding-top: 10px;
+    min-width: 24vw;
+}

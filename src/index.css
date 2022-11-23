@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+
+html {  
+  scroll-behavior: smooth;  
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  /*background-image: linear-gradient(rgb(26, 26, 26), #002412, rgb(26, 26, 26));*/
+  background-color: #f1ebca;
+  color: white;
+}
+
+a, a:hover, a:visited {
+  color: unset;
+}
+
+.lp2-container {
+  width: 100%;
+  max-width: 1360px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.hr-style {
+  border-color: rgb(65, 65, 65);
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
+}
+
+.mgg-top-60 {
+  margin-top: 60px;
+}
+
+.pdd-right-80 { 
+  padding-right: 80px;
+}
+
+.mgg-t-20 {
+  margin-top: 20vh;
+}

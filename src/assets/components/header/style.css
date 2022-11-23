@@ -1,0 +1,30 @@
+#header-container {
+    background-image: linear-gradient(to left,  rgb(41, 41, 41), #008140);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    z-index: 2;
+}
+  
+.header-item {
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header-item:first-child {
+    padding-left: 20px;
+    margin-right: auto;
+    width: 300px;
+}
+
+.header-item:last-child {
+    padding-right: 20px;
+}
