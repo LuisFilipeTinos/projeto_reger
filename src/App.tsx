@@ -64,6 +64,10 @@ function App() {
             <ThirdSectionTip6/>
           </section>
         </div>
+        <hr className="hr-style mgg-top-60"></hr>
+        <section id="fourth">
+          <FourthSection/>
+        </section>
       </main>   
       <Footer/>
 

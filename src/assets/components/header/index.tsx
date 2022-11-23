@@ -13,6 +13,7 @@ class Header extends Component {
                         <a href='#first' className="header-item">O PROJETO</a>
                         <a href='#second' className="header-item">O QUE FAZEMOS</a>
                         <a href='#secondAlt' className="header-item">ONDE ESTAMOS</a>
+                        <a href='#fourth' className="header-item">QUEM SOMOS</a>
                         {/* <Link to='/QuemSomos' className="header-item">QUEM SOMOS</Link>               */}
                         <a href='#third' className="header-item">DICAS</a>
                     </div>

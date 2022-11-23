@@ -15,7 +15,9 @@
 .text-content-size {
     width: 570px;
     z-index: 1;
+
 }
+
 
 .image_ondeEstamos{
     width: 500px;
@@ -30,4 +32,10 @@
     margin-left: 80px;
     padding-top: 10px;
     min-width: 25vw;
+}
+
+.text-align-container2{
+    width: 100%;
+    margin-left: 50%;
+
 }
